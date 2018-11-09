@@ -20,5 +20,8 @@
   "dependencies": {
     "color-name": "^1.1.4",
     "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "browserify": "^16.2.3"
   }
 }
