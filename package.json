@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/shinoshu/css-color-name#readme",
   "dependencies": {
+    "color-name": "^1.1.4",
     "jquery": "^3.3.1"
   }
 }
