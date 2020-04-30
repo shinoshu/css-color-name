@@ -19,7 +19,7 @@
   "homepage": "https://github.com/shinoshu/css-color-name#readme",
   "dependencies": {
     "color-name": "^1.1.4",
-    "jquery": "^3.3.1"
+    "jquery": "^3.5.0"
   },
   "devDependencies": {
     "browserify": "^16.2.3"
